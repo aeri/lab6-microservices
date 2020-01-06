@@ -22,3 +22,14 @@ gradle-app.setting
 *.ipr
 *.iws
 .DS_Store
+.project
+.settings/org.eclipse.buildship.core.prefs
+accounts/.classpath
+accounts/.project
+accounts/.settings/org.eclipse.buildship.core.prefs
+registration/.classpath
+registration/.project
+registration/.settings/org.eclipse.buildship.core.prefs
+web/.classpath
+web/.project
+web/.settings/org.eclipse.buildship.core.prefs
